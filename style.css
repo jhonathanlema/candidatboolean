@@ -1,0 +1,70 @@
+.container{
+    width: 950px;
+    margin:auto; 
+    background-color: rgba(0, 0, 0, 0.425);
+    padding-top: 50px;
+    border-radius: 10px 10px 10px 10px;
+    margin-bottom: 50px;
+    
+}
+
+body{
+    background-image: url(img/background.jpg);
+    background-size: cover;
+    margin-top: 20px;
+}
+
+header{
+    text-align: center;
+}
+.logo{
+    width: 150px;
+}
+.logo-test{
+    font-size: 25px;
+    color: rgb(27, 229, 27);
+}
+menu{
+    width: 800px;
+    margin: auto;
+    background-color: rgb(27, 229, 27);
+    text-align: center;
+    padding: 10px;
+}
+.containermain{
+    width: 820px;
+    margin: auto;
+    padding: 15px;
+
+}
+.selection{
+    color: white;
+}
+.subject{
+    font-size: 20px;
+}
+.Batteria1{
+    width: 300px;
+    background-color: rgb(229, 174, 9);
+    border-radius: 5px 5px 5px 5px;
+    padding-top: 20px;
+    margin-top: -10px;
+
+}
+.Batteria2{
+    width: 500px;
+    background-color: rgb(27, 229, 27);
+    border-radius: 5px 5px 5px 5px;
+    padding-top: 20px;
+    margin-top: -10px;
+
+}
+.Batteria3{
+    width: 150px;
+    background-color: rgb(163, 24, 36);
+    border-radius: 5px 5px 5px 5px;
+    padding-top: 20px;
+    margin-top: -10px;
+    margin-bottom: 50px;
+
+}
